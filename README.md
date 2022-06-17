@@ -1,5 +1,5 @@
 # cosmos-shop-ecommerce
 
-Account Admin:
-  emai: admin@gmail.com
+Account Admin: <br />
+  emai: admin@gmail.com <br />
   password: asdasdasd
